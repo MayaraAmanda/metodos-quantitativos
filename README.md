@@ -19,3 +19,14 @@ Utilizar Spidering/Scraping ou Logging para coletar dados a serem passados como 
 - Markdowns com comandos LaTex para documentar código e explicar resultados
 - Deve ser entregue nos formatos .pdf e .ipynb (código fonte+markdowns)
 - O dados dados brutos obtidos por spidering/scraping ou logging devem ser salvos separadamente do dado tratado, caso alguma limpeza tenha que ser realizada
+
+#### Trabalho 3:
+Desenvolver no Jupyter Notebook exemplos (enunciados e resoluções) que expliquem cada uma das distribuições apresentadas na aula.
+
+- Bernoulli
+- Binomial
+- Poisson
+- Geométrica
+- Uniforme
+- Exponencial
+- Gaussiana (Normal)
